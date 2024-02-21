@@ -1,0 +1,56 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "name": "The Lalit",
+      "address": "Mumbai Airport Road",
+      "email": "LalitInfo@gmail.com",
+      "services": "contenental",
+      "mobile": 88888888232
+    },
+    {
+      "id": "2",
+      "name": "Grand Hayat",
+      "address": "Pune",
+      "email": "Hayat@gmail.com",
+      "services": "Contenental",
+      "mobile": 9090909090
+    },
+    {
+      "id": "3",
+      "name": "Prachi",
+      "address": "Abc road ,Pune ",
+      "email": "Prachiinfo@gmail.com",
+      "services": "Indian",
+      "mobile": 98302289485
+    },
+    {
+      "id": "4",
+      "name": "Garwa Pure Veg",
+      "address": "Saswad Road , Pune",
+      "email": "GarvaHotels@gmail.com",
+      "services": "Indian Pure Veg",
+      "mobile": 9863903739
+    }
+  ],
+  "signup": [
+    {
+      "name": "Taj",
+      "email": "TajManagement@gmail.com",
+      "mobile": 999999999,
+      "password": "password@123",
+      "id": "1"
+    },
+    {
+      "name": "Admin",
+      "email": "Marvellous@gmail.com",
+      "mobile": 3164631649,
+      "password": "Admin@123",
+      "id": "2"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
